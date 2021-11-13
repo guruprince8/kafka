@@ -78,3 +78,6 @@ nano ~/.kafkatcfg
   "zk_path": "localhost:2181"
 }
 kafkat partitions
+
+enable ssl
+https://www.vertica.com/docs/9.3.x/HTML/Content/Authoring/KafkaIntegrationGuide/TLS-SSL/KafkaTLS-SSLExamplePart3ConfigureKafka.htm
