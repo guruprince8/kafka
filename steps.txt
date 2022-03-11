@@ -2,6 +2,10 @@ sudo adduser kafka
 
 sudo adduser kafka sudo
 
+sudo passwd kafka
+
+sudo mkhomedir_helper kafka
+
 su -l kafka
 
 mkdir ~/Downloads
